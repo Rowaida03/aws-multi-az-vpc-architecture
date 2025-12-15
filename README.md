@@ -3,7 +3,7 @@ This project demonstrates a production grade AWS network architecture. It implem
 
 ## Architecture Diagram
 
-![AWS Multi-AZ VPC Architecture](diagrams/Architecture-diagram.png)
+![AWS Multi-AZ VPC Architecture](diagrams/Architecture.png)
 
 ## How It Works
 
