@@ -19,7 +19,7 @@ This project demonstrates a production grade AWS network architecture. It implem
 
 • **Amazon CloudWatch** provides monitoring and observability by collecting metrics and logs from EC2 instances, allowing visibility into system health
 
-##Design Reasoning
+## Design Reasoning
 
 This design prioritizes security, availability, and simplicity while following AWS best practices.
 
