@@ -3,4 +3,4 @@ Multi-AZ AWS VPC architecture with public/private subnets, NAT Gateways, a basti
 
 ## Architecture Diagram
 
-![AWS Multi-AZ VPC Architecture](diagrams/architecture.png)
+![AWS Multi-AZ VPC Architecture](diagrams/architecture-diagram.png)
